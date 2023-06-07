@@ -3,7 +3,8 @@
 This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Preview
-![desktop-preview](https://github.com/IryDev/Newsletter-sign-up-form-with-success-message/assets/86270481/5a4cbe14-db12-46a4-84ef-c3bd1494c5ac)
+![desktop-preview](https://github.com/IryDev/Newsletter-sign-up-form-with-success-message/assets/86270481/1e9b12a2-71bf-4f50-9ff3-6c75f4826b7d)
+
 
 ## Table of contents
 
